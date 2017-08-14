@@ -7,7 +7,6 @@
       "build_source_folder": "fen3",
       "build_output_subfolder": "fen3",
       "locale": "en-us",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -15,7 +14,8 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
